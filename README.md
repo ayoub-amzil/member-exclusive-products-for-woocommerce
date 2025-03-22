@@ -1,0 +1,1 @@
+# member-exclusive-products-for-woocommerce
